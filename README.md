@@ -27,8 +27,8 @@ Memory: 16.10 GiB / 29.07 GiB
 
 ## 🌐 Find Me Online
 
-| Misskey | [@luoyu](https://biii.li/@luoyu) |
-| X | [@luoyumoe](https://x.com/luoyumoe) |
+- Misskey: [@luoyu](https://biii.li/@luoyu)
+- X: [@luoyumoe](https://x.com/luoyumoe)
 
 ---
 
